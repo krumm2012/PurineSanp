@@ -1,0 +1,6 @@
+{
+  "name": "PurineSnap 嘌呤智探 - 微信小程序与健康管理后台",
+  "description": "专为日常健康防范与低嘌呤均衡饮食人群打造的智能拍照测嘌呤与健康分析系统。支持餐食拍照智能拆解、食材分量微调、三色安全红绿灯、生化黄嘌呤代谢链与个性化补水建议，兼备微信小程序端与简易运营管理后台。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
